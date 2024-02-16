@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+}
+
+.places {
+    position: absolute;
+    top: 22%;
+    font-size: 30px;
+    left: 250px;
+
+}
+article {
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    width: 390px;
+    margin: 14px;
+    padding: 10px;
+}
+.places .lined {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.places article h2 {
+    font-size: 30px;
+    text-align: center; 
+}
+.places .centered {
+    margin: auto;
+} 
